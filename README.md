@@ -1,3 +1,7 @@
+This project uses face-api.js libraray to dtect faces of the uploaded pictures.
+This is only a web-app which doesnt store images made on;y for learning purposes. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
